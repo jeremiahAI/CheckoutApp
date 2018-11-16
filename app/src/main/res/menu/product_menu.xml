@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Share" />
+    <item
+        android:id="@+id/wishlist"
+        android:title="Add to wishlist" />
+    <item
+        android:id="@+id/reset_page"
+        android:title="Reset page"
+        android:visible="false" />
+</menu>
